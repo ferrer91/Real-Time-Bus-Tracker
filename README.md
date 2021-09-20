@@ -9,7 +9,8 @@ I used mapbox, is an open-source platform that allows you to create and display 
 You only need to clone my repositorie, no need install any dependency extra, just open it in your browser an click into the <show bus stops> button the marker will start to move throw the map.
   
 ## Road Map to the future:
-  In the future I want to create a system that found and follow the bus trajectory of severals vehicle.
+In the future I want to create a system that found and follow the bus trajectory of severals vehicle.
 
-## License information:
+## License:
+This projects was developed under MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
   
